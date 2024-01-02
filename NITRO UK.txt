@@ -1,0 +1,602 @@
+#EXTINF:-1,UK Zee Cinema
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/175781.ts
+#EXTINF:-1,UK 4Music
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189871.ts
+#EXTINF:-1,UK Paramount
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189873.ts
+#EXTINF:-1,UK 5 Star
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189874.ts
+#EXTINF:-1,UK Aaj Tak
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189876.ts
+#EXTINF:-1,UK ABP News
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189878.ts
+#EXTINF:-1,UK AL JAZEERA HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189879.ts
+#EXTINF:-1,UK B4U PLUS
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189888.ts
+#EXTINF:-1,UK baby tv
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189889.ts
+#EXTINF:-1,UK BBC 1
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189890.ts
+#EXTINF:-1,UK BBC 2
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189891.ts
+#EXTINF:-1,UK BBC News HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189894.ts
+#EXTINF:-1,UK BBC Parliament
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189898.ts
+#EXTINF:-1,UK BBC Two Northern Ireland
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189900.ts
+#EXTINF:-1,UK BBC World News
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189903.ts
+#EXTINF:-1,UK BLOOMBERG HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189906.ts
+#EXTINF:-1,UK Cartoonito
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189913.ts
+#EXTINF:-1,UK BBC CBeebies
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189915.ts
+#EXTINF:-1,UK Channel 4 HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189920.ts
+#EXTINF:-1,UK Channel 5
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189921.ts
+#EXTINF:-1,UK CNBC News
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189923.ts
+#EXTINF:-1,UK CNN HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189924.ts
+#EXTINF:-1,UK Colors
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189925.ts
+#EXTINF:-1,UK Colors Rishtey
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189926.ts
+#EXTINF:-1,UK Comedy Central Extra
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189928.ts
+#EXTINF:-1,UK Comedy Central FHD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189929.ts
+#EXTINF:-1,UK Crime & Investigation HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189930.ts
+#EXTINF:-1,UK Dave HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189931.ts
+#EXTINF:-1,UK Discovery
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189932.ts
+#EXTINF:-1,UK Discovery Science
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189934.ts
+#EXTINF:-1,UK E!
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189941.ts
+#EXTINF:-1,UK EDEN HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189944.ts
+#EXTINF:-1,UK Film 4 HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189945.ts
+#EXTINF:-1,UK Gold
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189951.ts
+#EXTINF:-1,UK Horse and Country
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189957.ts
+#EXTINF:-1,UK Itv 4
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189961.ts
+#EXTINF:-1,UK ITVBE
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189962.ts
+#EXTINF:-1,UK MTV Classic
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189970.ts
+#EXTINF:-1,UK MTV FHD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189973.ts
+#EXTINF:-1,UK MTV Hits HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189974.ts
+#EXTINF:-1,UK MTV Music
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189975.ts
+#EXTINF:-1,UK Nat Geo
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189979.ts
+#EXTINF:-1,UK Nick Junior HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189981.ts
+#EXTINF:-1,UK Nick Junior Too
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189982.ts
+#EXTINF:-1,UK NICK TOONS
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189983.ts
+#EXTINF:-1,UK: POP Channel
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189986.ts
+#EXTINF:-1,UK Quest Red HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189988.ts
+#EXTINF:-1,UK Sky Sports Racing
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189989.ts
+#EXTINF:-1,IR: RTE One
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189996.ts
+#EXTINF:-1,UK SKY One
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189999.ts
+#EXTINF:-1,UK Sky News
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/190003.ts
+#EXTINF:-1,UK Star Bharat
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/190008.ts
+#EXTINF:-1,UK Star Gold
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/190009.ts
+#EXTINF:-1,UK STV HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/190011.ts
+#EXTINF:-1,UK TLC
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/190017.ts
+#EXTINF:-1,UK Travel Channel
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/190018.ts
+#EXTINF:-1,UK Watch
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/190027.ts
+#EXTINF:-1,UK Zing
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/190030.ts
+#EXTINF:-1,UK Clubland
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/208457.ts
+#EXTINF:-1,UK Sky Cinema Premiere
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/228272.ts
+#EXTINF:-1,UK Sky Cinema Thriller
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/228284.ts
+#EXTINF:-1,UK Sky Cinema Greats
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/228287.ts
+#EXTINF:-1,UK Sky Cinema Comedy
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/228290.ts
+#EXTINF:-1,UK Sky Cinema Action & Adventure
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/228291.ts
+#EXTINF:-1,IRE: VIRGIN MEDIA ONE
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/391164.ts
+#EXTINF:-1,UK DESTINATION AMERICA HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/391193.ts
+#EXTINF:-1,UK EURONEWS HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/391197.ts
+#EXTINF:-1,UK RT NEWS HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/391198.ts
+#EXTINF:-1,UK E4
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/391210.ts
+#EXTINF:-1,UK POP MAX SD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/391248.ts
+#EXTINF:-1,UK 5 USA
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/391253.ts
+#EXTINF:-1,UK AMC
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/391263.ts
+#EXTINF:-1,UK: MTV 80s
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/391284.ts
+#EXTINF:-1,UK KISS SD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/391299.ts
+#EXTINF:-1,UK FREESPORTS
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/391307.ts
+#EXTINF:-1,UK HORROR CHANNEL
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/391308.ts
+#EXTINF:-1,UK KERRANG SD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/391321.ts
+#EXTINF:-1,UK PBS AMERICA SD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/391325.ts
+#EXTINF:-1,UK THE BOX SD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/391329.ts
+#EXTINF:-1,UK EuroSport 1 HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/391450.ts
+#EXTINF:-1,UK ITV 2 HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/391480.ts
+#EXTINF:-1,UK MORE 4 FHD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/391498.ts
+#EXTINF:-1,UK Alibi
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/391257.ts
+#EXTINF:-1,UK Blaze
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189905.ts
+#EXTINF:-1,UK Sky Atlantic
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/190001.ts
+#EXTINF:-1,UK MTV Base
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189969.ts
+#EXTINF:-1,UK Nickelodeon
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189984.ts
+#EXTINF:-1,UK CBBC
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189914.ts
+#EXTINF:-1,UK Sky Cinema Hits
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/228286.ts
+#EXTINF:-1,UK BBC One Northern Ireland
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189895.ts
+#EXTINF:-1,UK Nat Geo Wild
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189980.ts
+#EXTINF:-1,UK Food Network
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189947.ts
+#EXTINF:-1,UK Investigation Discovery
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189958.ts
+#EXTINF:-1,UK Sony Channel
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/190007.ts
+#EXTINF:-1,UK Great TV
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/190021.ts
+#EXTINF:-1,UK 5 Select HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/391500.ts
+#EXTINF:-1,UK: Sky Mix FHD (Pick)
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/391327.ts
+#EXTINF:-1,UK ANIMAL PLANET
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/391170.ts
+#EXTINF:-1,UK Zee TV
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/190029.ts
+#EXTINF:-1,UK Sky 2 FHD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/515731.ts
+#EXTINF:-1,UK BT Sports ESPN HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/515737.ts
+#EXTINF:-1,IRE: VIRGIN MEDIA TWO HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/391165.ts
+#EXTINF:-1,UK Racing FHD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/709536.ts
+#EXTINF:-1,UK Sky Arts
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/190000.ts
+#EXTINF:-1,UK Syfy
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/391330.ts
+#EXTINF:-1,UK Really
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189990.ts
+#EXTINF:-1,UK: Now 90s
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/199517.ts
+#EXTINF:-1,UK CELTIC TV (Match time only)
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/391313.ts
+#EXTINF:-1,UK RED BULL TV FHD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/391476.ts
+#EXTINF:-1,UK Sky Crime
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/190019.ts
+#EXTINF:-1,UK Sab TV (SET)
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189998.ts
+#EXTINF:-1,UK: MTV Classic
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1074446.ts
+#EXTINF:-1,UK MOTORS FHD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/391473.ts
+#EXTINF:-1,UK France 24 English
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189950.ts
+#EXTINF:-1,UK MUTV HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189978.ts
+#EXTINF:-1,UK MTV LIVE FHD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/391289.ts
+#EXTINF:-1,UK B4U Music
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189887.ts
+#EXTINF:-1,UK ICONCERTS
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/188357.ts
+#EXTINF:-1,UK Faith World TV SD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1139081.ts
+#EXTINF:-1,UK BBC Alba
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189893.ts
+#EXTINF:-1,UK ITV 1 HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1151892.ts
+#EXTINF:-1,UK BBC One Wales
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189897.ts
+#EXTINF:-1,UK Life Time HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189964.ts
+#EXTINF:-1,UK SkySports F1
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1196396.ts
+#EXTINF:-1,UK Kicc TV
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1138964.ts
+#EXTINF:-1,EPL: Astro SuperSport 1 HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1391035.ts
+#EXTINF:-1,UK TRT World
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1395476.ts
+#EXTINF:-1,UK Zee Cinema
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1396380.ts
+#EXTINF:-1,UK Sony TV UK
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1396382.ts
+#EXTINF:-1,UK ARY News
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1396389.ts
+#EXTINF:-1,UK BT SPORTS EXTRA 5 HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1400409.ts
+#EXTINF:-1,UK BT SPORTS EXTRA 6 HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1400410.ts
+#EXTINF:-1,UK: EURO NEWS
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1402296.ts
+#EXTINF:-1,UK Colors Europe
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1122052.ts
+#EXTINF:-1,UK BBC Scotland
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1447404.ts
+#EXTINF:-1,UK MSNBC TV
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1395477.ts
+#EXTINF:-1,UK Disney Channel FHD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1661120.ts
+#EXTINF:-1,UK C ITV
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189911.ts
+#EXTINF:-1,UK SKY SPORTS GOLF HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/391434.ts
+#EXTINF:-1,UK Sky Two
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/190005.ts
+#EXTINF:-1,UK Tiny Pop
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/190016.ts
+#EXTINF:-1,UK: Sky Disney HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1661205.ts
+#EXTINF:-1,UK SKY STORE PRE-ORDER KIDS HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1400415.ts
+#EXTINF:-1,UK Star Plus (Utsav Plus)
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/190010.ts
+#EXTINF:-1,UK Viceland HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/190026.ts
+#EXTINF:-1,EPL: Now HK Premier Sports 1
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1391046.ts
+#EXTINF:-1,UK: Islam Channel HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1751910.ts
+#EXTINF:-1,UK: Eman Channel SD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1751911.ts
+#EXTINF:-1,EPL: Now HK Premier Sports 2
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1391047.ts
+#EXTINF:-1,EPL: Now HK Premier Sports 3
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1391048.ts
+#EXTINF:-1,EPL: Now HK Premier Sports 4
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1391049.ts
+#EXTINF:-1,EPL: Now HK Premier Sports 5
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1391050.ts
+#EXTINF:-1,EPL: Now HK Premier Sports 6
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1391051.ts
+#EXTINF:-1,EPL: Now HK Premier Sports 7
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1391052.ts
+#EXTINF:-1,UK Ary Qtv
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1768476.ts
+#EXTINF:-1,UK MTV Club
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1768479.ts
+#EXTINF:-1,UK MTV Rocks
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1768480.ts
+#EXTINF:-1,UK Sony Entertainment
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1396381.ts
+#EXTINF:-1,UK: Ary Muzik
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1769147.ts
+#EXTINF:-1,UK Paramount Network
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1769151.ts
+#EXTINF:-1,UK Cartoon Network
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1769152.ts
+#EXTINF:-1,UK Sky Cinema Musicals
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1769155.ts
+#EXTINF:-1,UK Sky Sports Cricket
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1769162.ts
+#EXTINF:-1,UK VH1
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1769216.ts
+#EXTINF:-1,UK PRESS TV HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/391203.ts
+#EXTINF:-1,UK Sky Sports Premier League
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1821337.ts
+#EXTINF:-1,UK BBC Two Wales
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189902.ts
+#EXTINF:-1,UK BRITISH MUSLIM TV SD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/391196.ts
+#EXTINF:-1,UK History 2
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189953.ts
+#EXTINF:-1,UK London Live
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189965.ts
+#EXTINF:-1,UK: GB News
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1836213.ts
+#EXTINF:-1,UK DISNEY JUNIOR FHD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/391238.ts
+#EXTINF:-1,UK: Eurosport 1 HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1846756.ts
+#EXTINF:-1,UK TNT Sports 1
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1846762.ts
+#EXTINF:-1,UK TNT Sports 2
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1846763.ts
+#EXTINF:-1,UK TNT Sports 3
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1846764.ts
+#EXTINF:-1,UK: BT SPORTS EXTRA 1 HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1846767.ts
+#EXTINF:-1,UK: BT SPORTS EXTRA 2 HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1846768.ts
+#EXTINF:-1,UK: BT SPORTS EXTRA 3 HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1846769.ts
+#EXTINF:-1,UK: BT SPORTS EXTRA 4 HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1846770.ts
+#EXTINF:-1,UK Sky Sports Action
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1846771.ts
+#EXTINF:-1,UK Sky Sports Arena
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1846772.ts
+#EXTINF:-1,UK Sky Sports F1
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1846774.ts
+#EXTINF:-1,UK Sky Sports Football
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1846775.ts
+#EXTINF:-1,UK: Eurosport 2 HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1847082.ts
+#EXTINF:-1,UK Sky Sports Main Events
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1847084.ts
+#EXTINF:-1,UK Sky Sports News
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1769168.ts
+#EXTINF:-1,UK Sky Sports MIX
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1847433.ts
+#EXTINF:-1,UK Sky Cinema Drama
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/228295.ts
+#EXTINF:-1,UK Now 80s
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1851506.ts
+#EXTINF:-1,UK BBC Four
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1858077.ts
+#EXTINF:-1,EPL: Optus Sport 3
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1391041.ts
+#EXTINF:-1,EPL: Optus Sport 4
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1391042.ts
+#EXTINF:-1,EPL: Optus Sport 5
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1391043.ts
+#EXTINF:-1,EPL: Optus Sport 2
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1391040.ts
+#EXTINF:-1,UK WION  FHD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1900579.ts
+#EXTINF:-1,UK Great Movies
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1851508.ts
+#EXTINF:-1,UK BBC Two Scotland
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1768478.ts
+#EXTINF:-1,UK BET
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189904.ts
+#EXTINF:-1,UK Club MTV
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189971.ts
+#EXTINF:-1,UK RTE News Now
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189995.ts
+#EXTINF:-1,UK DISNEY XD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/2060757.ts
+#EXTINF:-1,UK: Sky Cinema Sci-fi & Horror
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/2060758.ts
+#EXTINF:-1,UK 4SEVEN
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189872.ts
+#EXTINF:-1,UK DMAX HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/2063022.ts
+#EXTINF:-1,UK Discovery Turbo
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189936.ts
+#EXTINF:-1,UK: Magic TV
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/2094028.ts
+#EXTINF:-1,UK SKY CINEMA CRIME & THRILLER
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/391353.ts
+#EXTINF:-1,UK BOOMERANG TV
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/391241.ts
+#EXTINF:-1,UK Drama
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189940.ts
+#EXTINF:-1,UK Sky Cinema Sci-fi
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/228281.ts
+#EXTINF:-1,UK BBC One HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/2104319.ts
+#EXTINF:-1,UK: Sky History HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/2113484.ts
+#EXTINF:-1,UK BBC One Scotland
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/2124836.ts
+#EXTINF:-1,SPFL: Celtic TV (Live On Matchday)
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/2134200.ts
+#EXTINF:-1,UK TRU TV
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/391499.ts
+#EXTINF:-1,UK S4C
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189997.ts
+#EXTINF:-1,EPL: Now HK Premier Sports 8
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1391053.ts
+#EXTINF:-1,UK History Channel FHD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189954.ts
+#EXTINF:-1,UK: Now 70s
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/2207518.ts
+#EXTINF:-1,UK Discovery History
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189933.ts
+#EXTINF:-1,UK TNT Sports 4
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/2274006.ts
+#EXTINF:-1,EPL: Astro SuperSport 5 HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/2276084.ts
+#EXTINF:-1,UK ITV 3 HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/199506.ts
+#EXTINF:-1,UK BBC 3
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1851507.ts
+#EXTINF:-1,EPL: Astro SuperSport 2 HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1391036.ts
+#EXTINF:-1,EPL: Astro SuperSport 3 HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1391037.ts
+#EXTINF:-1,UK Sky Cinema SciFi & Horror
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/391355.ts
+#EXTINF:-1,IR: RTE 2
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189992.ts
+#EXTINF:-1,EPL: Optus Sport 1
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1391039.ts
+#EXTINF:-1,UK Sky Cinema Animation
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/2104320.ts
+#EXTINF:-1,EPL: Astro SuperSport 4 HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1391038.ts
+#EXTINF:-1,UK Yesterday HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/190028.ts
+#EXTINF:-1,UK SKY WITNESS
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/391344.ts
+#EXTINF:-1,UK ITV 2
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/2620946.ts
+#EXTINF:-1,SG HubPremier 1
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/2688447.ts
+#EXTINF:-1,SG HubPremier 2
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/2688448.ts
+#EXTINF:-1,SG HubPremier 3
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/2688449.ts
+#EXTINF:-1,SG HubPremier 4
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/2688450.ts
+#EXTINF:-1,SG HubPremier 5
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/2688451.ts
+#EXTINF:-1,SG HubPremier 6
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/2688452.ts
+#EXTINF:-1,SG HubPremier 7
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/2688453.ts
+#EXTINF:-1,SG HubPremier 8
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/2688454.ts
+#EXTINF:-1,SG HubPremier 9
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/2688455.ts
+#EXTINF:-1,SG HubPremier 10
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/2688456.ts
+#EXTINF:-1,SG HubPremier 11
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/2688457.ts
+#EXTINF:-1,Carib CSport
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/2688459.ts
+#EXTINF:-1,Carib CSport 2
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/2688460.ts
+#EXTINF:-1,UK CineBox Action
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/2696384.ts
+#EXTINF:-1,UK CineBox Family
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/2696443.ts
+#EXTINF:-1,UK CineBox Comedy
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/2696444.ts
+#EXTINF:-1,IR: TG4
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/2696843.ts
+#EXTINF:-1,UK BBC One Yorkshire
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/2702084.ts
+#EXTINF:-1,Sky SPORTS CRICKET
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/2210032.ts
+#EXTINF:-1,UK Quest
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/391501.ts
+#EXTINF:-1,UK HGTV
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1077497.ts
+#EXTINF:-1,UK CBS Reality
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189918.ts
+#EXTINF:-1,UK MotorRacing
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/2416036.ts
+#EXTINF:-1,UK Sky Documentaries
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1400759.ts
+#EXTINF:-1,UK SKY CINEMA SELECT FHD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/391354.ts
+#EXTINF:-1,UK CHALLENGE TV
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/391270.ts
+#EXTINF:-1,UK UTV Northern Ireland
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/190025.ts
+#EXTINF:-1,UK LFC TV
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/189963.ts
+#EXTINF:-1,UK: DW English FHD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/2762567.ts
+#EXTINF:-1,UK: TALK TV
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/2766897.ts
+#EXTINF:-1,UK TNT Sports 5
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/2768374.ts
+#EXTINF:-1,UK Sky Nature
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/2769000.ts
+#EXTINF:-1,UK PREMIER SPORTS 2
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/391420.ts
+#EXTINF:-1,UK Premier Sports 1 FHD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/229003.ts
+#EXTINF:-1,UK: Sky Store 1
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/2780000.ts
+#EXTINF:-1,UK: Sky Store 2
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/2780001.ts
+#EXTINF:-1,UK: Sky Store 3
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/2780002.ts
+#EXTINF:-1,EPL: Optus Sport 7
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1391045.ts
+#EXTINF:-1,UK BBC One North West
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/2781495.ts
+#EXTINF:-1,AR: beIN Sport English 4k 1
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1832318.ts
+#EXTINF:-1,AR: beIN Sport English 4k 2
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1832319.ts
+#EXTINF:-1,BeIN Sports English 1 HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1400762.ts
+#EXTINF:-1,South Africa SuperSport Premier League
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/386576.ts
+#EXTINF:-1,South Africa Supersport Tennis
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/386578.ts
+#EXTINF:-1,South Africa SuperSport Variety 1
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/386580.ts
+#EXTINF:-1,South Africa SuperSport Variety 3
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/386582.ts
+#EXTINF:-1,South Africa SuperSport Variety 4
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/386583.ts
+#EXTINF:-1,South Africa SuperSport Action
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/386585.ts
+#EXTINF:-1,South Africa SuperSport Cricket
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/386586.ts
+#EXTINF:-1,South Africa SuperSport Variety 2
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/386581.ts
+#EXTINF:-1,South Africa SuperSport Motorsport
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/386584.ts
+#EXTINF:-1,South Africa SuperSport Football
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1019733.ts
+#EXTINF:-1,South Africa SuperSport Golf
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1019734.ts
+#EXTINF:-1,South Africa SUPERSPORT MAXIMO 1
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/387382.ts
+#EXTINF:-1,South Africa SUPERSPORT BLITZ
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/386587.ts
+#EXTINF:-1,South Africa SuperSport Grandstand
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1328208.ts
+#EXTINF:-1,AF: BULSHO TV
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1826937.ts
+#EXTINF:-1,South Africa SuperSport PSL
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/386577.ts
+#EXTINF:-1,South Africa SuperSport La Liga
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/2038477.ts
+#EXTINF:-1,South Africa SuperSport Rugby
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/386579.ts
+#EXTINF:-1,AZ: UMID TV
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/188873.ts
+#EXTINF:-1,Carib RUSH_Sports_3_HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1122607.ts
+#EXTINF:-1,Carib RUSH_Sports_4_HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1122608.ts
+#EXTINF:-1,Carib RUSH_Sports_5_HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1122609.ts
+#EXTINF:-1,Carib RUSH_Sports_6_HD
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1122610.ts
+#EXTINF:-1,Carib Rush
+http://ky-iptv.com:80/T8xWkUTqG6/p4Xp2CRPGp/1122611.ts
